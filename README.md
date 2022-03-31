@@ -70,6 +70,8 @@ The programming software supports numerous integrated
 libraries, which have been exclusively built for the Arduino community.
 With this feature, you don’t need third-party tools to finish complex
 projects.
+
+
 ![](/Images/Arduino%20UNO.PNG)
 ![](/Images/Arduino%20UNO%20Code.PNG)
 
@@ -92,6 +94,8 @@ App Inventor and the other projects are based on and informed
 by constructionist learning theories, which emphasize that
 programming can be a vehicle for engaging powerful ideas through
 active learning.
+
+
 ![](/Images/MIT%20App%20Inventor.PNG)
 ## Hardware Used -
 ![](/Images/Hardware.PNG)
